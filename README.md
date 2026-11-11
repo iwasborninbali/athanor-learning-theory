@@ -1,5 +1,7 @@
 # athanor-learning-theory
 
+**Archived release v1.0:** Zenodo [10.5281/zenodo.24139696](https://doi.org/10.5281/zenodo.24139696) (all versions: [10.5281/zenodo.24139695](https://doi.org/10.5281/zenodo.24139695)).
+
 Results on long-stalled open problems from learning theory (November 2026). Each folder holds the certificates and independent checkers.
 
 | Folder | Question (source) | Result | Status |
