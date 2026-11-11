@@ -1,0 +1,233 @@
+[
+  {
+    "m": 4,
+    "kind": "all",
+    "curve": [
+      0,
+      3,
+      4,
+      4
+    ],
+    "witness_ids": [
+      "curve_all_m4_d1",
+      "curve_all_m4_d2",
+      "curve_all_m4_d3"
+    ],
+    "certificates": [
+      "certificates/closure_all_m4_p0.json.gz",
+      "certificates/closure_all_m4_p1.json.gz",
+      "certificates/closure_all_m4_p2.json.gz"
+    ]
+  },
+  {
+    "m": 4,
+    "kind": "transition",
+    "curve": [
+      0,
+      3,
+      4,
+      4
+    ],
+    "witness_ids": [
+      "curve_transition_m4_d1",
+      "curve_transition_m4_d2",
+      "curve_transition_m4_d3"
+    ],
+    "certificates": [
+      "certificates/closure_transition_m4_p0.json.gz",
+      "certificates/closure_transition_m4_p1.json.gz",
+      "certificates/closure_transition_m4_p2.json.gz"
+    ]
+  },
+  {
+    "m": 4,
+    "kind": "constants",
+    "curve": [
+      0,
+      3,
+      4,
+      4
+    ],
+    "witness_ids": [
+      "curve_constants_m4_d1",
+      "curve_constants_m4_d2",
+      "curve_constants_m4_d3"
+    ],
+    "certificates": [
+      "certificates/closure_constants_m4_p0.json.gz",
+      "certificates/closure_constants_m4_p1.json.gz",
+      "certificates/closure_constants_m4_p2.json.gz"
+    ]
+  },
+  {
+    "m": 5,
+    "kind": "all",
+    "curve": [
+      0,
+      4,
+      8,
+      10,
+      10
+    ],
+    "witness_ids": [
+      "curve_all_m5_d1",
+      "curve_all_m5_d2",
+      "curve_all_m5_d3",
+      "curve_all_m5_d4"
+    ],
+    "certificates": [
+      "certificates/closure_all_m5_p0.json.gz",
+      "certificates/closure_all_m5_p1.json.gz",
+      "certificates/closure_all_m5_p2.json.gz"
+    ]
+  },
+  {
+    "m": 5,
+    "kind": "transition",
+    "curve": [
+      0,
+      4,
+      7,
+      9,
+      9
+    ],
+    "witness_ids": [
+      "curve_transition_m5_d1",
+      "curve_transition_m5_d2",
+      "curve_transition_m5_d3",
+      "curve_transition_m5_d4"
+    ],
+    "certificates": [
+      "certificates/closure_transition_m5_p0.json.gz",
+      "certificates/closure_transition_m5_p1.json.gz",
+      "certificates/closure_transition_m5_p2.json.gz"
+    ]
+  },
+  {
+    "m": 5,
+    "kind": "constants",
+    "curve": [
+      0,
+      5,
+      8,
+      10,
+      10
+    ],
+    "witness_ids": [
+      "curve_constants_m5_d1",
+      "curve_constants_m5_d2",
+      "curve_constants_m5_d3",
+      "curve_constants_m5_d4"
+    ],
+    "certificates": [
+      "certificates/closure_constants_m5_p0.json.gz",
+      "certificates/closure_constants_m5_p1.json.gz",
+      "certificates/closure_constants_m5_p2.json.gz"
+    ]
+  },
+  {
+    "m": 6,
+    "kind": "all",
+    "curve": [
+      0,
+      5,
+      9,
+      12,
+      13,
+      14,
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "witness_ids": [
+      "curve_all_m6_d1",
+      "curve_all_m6_d2",
+      "curve_all_m6_d3",
+      "curve_all_m6_d4",
+      "curve_all_m6_d5",
+      "curve_all_m6_d6",
+      "curve_all_m6_d7",
+      "curve_all_m6_d8",
+      "curve_all_m6_d9",
+      "curve_all_m6_d10"
+    ],
+    "certificates": [
+      "certificates/closure_all_m6_p0.json.gz",
+      "certificates/closure_all_m6_p1.json.gz",
+      "certificates/closure_all_m6_p2.json.gz",
+      "certificates/closure_all_m6_p3.json.gz"
+    ]
+  },
+  {
+    "m": 6,
+    "kind": "transition",
+    "curve": [
+      0,
+      5,
+      9,
+      11,
+      12,
+      13,
+      13,
+      14,
+      14,
+      15,
+      15
+    ],
+    "witness_ids": [
+      "curve_transition_m6_d1",
+      "curve_transition_m6_d2",
+      "curve_transition_m6_d3",
+      "curve_transition_m6_d4",
+      "curve_transition_m6_d5",
+      "curve_transition_m6_d6",
+      "curve_transition_m6_d7",
+      "curve_transition_m6_d8",
+      "curve_transition_m6_d9",
+      "curve_transition_m6_d10"
+    ],
+    "certificates": [
+      "certificates/closure_transition_m6_p0.json.gz",
+      "certificates/closure_transition_m6_p1.json.gz",
+      "certificates/closure_transition_m6_p2.json.gz",
+      "certificates/closure_transition_m6_p3.json.gz"
+    ]
+  },
+  {
+    "m": 6,
+    "kind": "constants",
+    "curve": [
+      0,
+      5,
+      9,
+      11,
+      13,
+      13,
+      13,
+      15,
+      15,
+      15,
+      15
+    ],
+    "witness_ids": [
+      "curve_constants_m6_d1",
+      "curve_constants_m6_d2",
+      "curve_constants_m6_d3",
+      "curve_constants_m6_d4",
+      "curve_constants_m6_d5",
+      "curve_constants_m6_d6",
+      "curve_constants_m6_d7",
+      "curve_constants_m6_d8",
+      "curve_constants_m6_d9",
+      "curve_constants_m6_d10"
+    ],
+    "certificates": [
+      "certificates/closure_constants_m6_p0.json.gz",
+      "certificates/closure_constants_m6_p1.json.gz",
+      "certificates/closure_constants_m6_p2.json.gz",
+      "certificates/closure_constants_m6_p3.json.gz"
+    ]
+  }
+]

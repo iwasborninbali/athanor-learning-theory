@@ -1,0 +1,47 @@
+[
+  {
+    "n": 1,
+    "classes_matched": 1,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 2,
+    "classes_matched": 1,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 3,
+    "classes_matched": 2,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 4,
+    "classes_matched": 6,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 5,
+    "classes_matched": 10,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 6,
+    "classes_matched": 29,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 7,
+    "classes_matched": 64,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 8,
+    "classes_matched": 194,
+    "all_per_graph_extrema_equal": true
+  },
+  {
+    "n": 9,
+    "classes_matched": 531,
+    "all_per_graph_extrema_equal": true
+  }
+]

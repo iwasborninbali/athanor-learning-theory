@@ -1,0 +1,23 @@
+[
+  {
+    "file": "note2015.pdf",
+    "url": "https://arxiv.org/pdf/1505.06999",
+    "sha256": "3a54657ed606f357f389f8329392113c8ab3b965eaffb23dd879ac5532e7dd83",
+    "bytes": 187222,
+    "accessed_utc": "2026-11-11T00:13:26Z"
+  },
+  {
+    "file": "revision2023.html",
+    "url": "https://arxiv.org/html/1212.1108v3",
+    "sha256": "102e9e447ac34f9fa8c773edb1f7f49d283617c526d314b8d604c9f555363731",
+    "bytes": 2668061,
+    "accessed_utc": "2026-11-11T00:13:35Z"
+  },
+  {
+    "file": "partition2020.pdf",
+    "url": "https://proceedings.neurips.cc/paper/2020/file/d2a10b0bd670e442b1d3caa3fbf9e695-Paper.pdf",
+    "sha256": "2993110e2bd4ecd5bcb8b500fb5f67f5b6891a74786016378e4a881f51703f8b",
+    "bytes": 301135,
+    "accessed_utc": "2026-11-11T00:13:38Z"
+  }
+]

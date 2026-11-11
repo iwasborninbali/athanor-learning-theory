@@ -1,0 +1,415 @@
+[
+  {
+    "n": 1,
+    "classes": {
+      "all": {
+        "graphs": 1,
+        "worst_time": 0,
+        "worst_frequency": 0
+      },
+      "trees": {
+        "graphs": 1,
+        "worst_time": 0,
+        "worst_frequency": 0
+      }
+    },
+    "execution": {
+      "n": 1,
+      "graphs": 1,
+      "states": 0,
+      "peak_graph_states": 0,
+      "worst_time": 0,
+      "worst_frequency": 0,
+      "seconds": 0.0004295
+    }
+  },
+  {
+    "n": 2,
+    "classes": {
+      "all": {
+        "graphs": 1,
+        "worst_time": 1,
+        "worst_frequency": 1
+      },
+      "trees": {
+        "graphs": 1,
+        "worst_time": 1,
+        "worst_frequency": 1
+      }
+    },
+    "execution": {
+      "n": 2,
+      "graphs": 1,
+      "states": 2,
+      "peak_graph_states": 2,
+      "worst_time": 1,
+      "worst_frequency": 1,
+      "seconds": 0.00170992
+    }
+  },
+  {
+    "n": 3,
+    "classes": {
+      "all": {
+        "graphs": 2,
+        "worst_time": 3,
+        "worst_frequency": 2
+      },
+      "trees": {
+        "graphs": 1,
+        "worst_time": 3,
+        "worst_frequency": 2
+      },
+      "unicyclic": {
+        "graphs": 1,
+        "worst_time": 2,
+        "worst_frequency": 1
+      },
+      "minimum_degree_two": {
+        "graphs": 1,
+        "worst_time": 2,
+        "worst_frequency": 1
+      }
+    },
+    "execution": {
+      "n": 3,
+      "graphs": 2,
+      "states": 18,
+      "peak_graph_states": 9,
+      "worst_time": 3,
+      "worst_frequency": 2,
+      "seconds": 0.00179183
+    }
+  },
+  {
+    "n": 4,
+    "classes": {
+      "all": {
+        "graphs": 6,
+        "worst_time": 7,
+        "worst_frequency": 3
+      },
+      "trees": {
+        "graphs": 2,
+        "worst_time": 7,
+        "worst_frequency": 3
+      },
+      "unicyclic": {
+        "graphs": 2,
+        "worst_time": 6,
+        "worst_frequency": 2
+      },
+      "minimum_degree_two": {
+        "graphs": 3,
+        "worst_time": 4,
+        "worst_frequency": 2
+      },
+      "cubic": {
+        "graphs": 1,
+        "worst_time": 3,
+        "worst_frequency": 1
+      }
+    },
+    "execution": {
+      "n": 4,
+      "graphs": 6,
+      "states": 167,
+      "peak_graph_states": 32,
+      "worst_time": 7,
+      "worst_frequency": 3,
+      "seconds": 0.00251517
+    }
+  },
+  {
+    "n": 5,
+    "classes": {
+      "all": {
+        "graphs": 10,
+        "worst_time": 11,
+        "worst_frequency": 5
+      },
+      "trees": {
+        "graphs": 2,
+        "worst_time": 11,
+        "worst_frequency": 5
+      },
+      "unicyclic": {
+        "graphs": 4,
+        "worst_time": 11,
+        "worst_frequency": 4
+      },
+      "minimum_degree_two": {
+        "graphs": 4,
+        "worst_time": 7,
+        "worst_frequency": 2
+      }
+    },
+    "execution": {
+      "n": 5,
+      "graphs": 10,
+      "states": 722,
+      "peak_graph_states": 96,
+      "worst_time": 11,
+      "worst_frequency": 5,
+      "seconds": 0.00250992
+    }
+  },
+  {
+    "n": 6,
+    "classes": {
+      "all": {
+        "graphs": 29,
+        "worst_time": 17,
+        "worst_frequency": 7
+      },
+      "trees": {
+        "graphs": 4,
+        "worst_time": 17,
+        "worst_frequency": 7
+      },
+      "unicyclic": {
+        "graphs": 9,
+        "worst_time": 16,
+        "worst_frequency": 5
+      },
+      "minimum_degree_two": {
+        "graphs": 11,
+        "worst_time": 12,
+        "worst_frequency": 3
+      },
+      "cubic": {
+        "graphs": 2,
+        "worst_time": 8,
+        "worst_frequency": 2
+      }
+    },
+    "execution": {
+      "n": 6,
+      "graphs": 29,
+      "states": 5514,
+      "peak_graph_states": 336,
+      "worst_time": 17,
+      "worst_frequency": 7,
+      "seconds": 0.00310571
+    }
+  },
+  {
+    "n": 7,
+    "classes": {
+      "all": {
+        "graphs": 64,
+        "worst_time": 27,
+        "worst_frequency": 8
+      },
+      "trees": {
+        "graphs": 6,
+        "worst_time": 27,
+        "worst_frequency": 8
+      },
+      "unicyclic": {
+        "graphs": 17,
+        "worst_time": 23,
+        "worst_frequency": 8
+      },
+      "minimum_degree_two": {
+        "graphs": 21,
+        "worst_time": 16,
+        "worst_frequency": 4
+      }
+    },
+    "execution": {
+      "n": 7,
+      "graphs": 64,
+      "states": 27977,
+      "peak_graph_states": 864,
+      "worst_time": 27,
+      "worst_frequency": 8,
+      "seconds": 0.00360562
+    }
+  },
+  {
+    "n": 8,
+    "classes": {
+      "all": {
+        "graphs": 194,
+        "worst_time": 34,
+        "worst_frequency": 8
+      },
+      "trees": {
+        "graphs": 11,
+        "worst_time": 31,
+        "worst_frequency": 8
+      },
+      "unicyclic": {
+        "graphs": 38,
+        "worst_time": 34,
+        "worst_frequency": 8
+      },
+      "minimum_degree_two": {
+        "graphs": 60,
+        "worst_time": 24,
+        "worst_frequency": 5
+      },
+      "cubic": {
+        "graphs": 5,
+        "worst_time": 15,
+        "worst_frequency": 3
+      }
+    },
+    "execution": {
+      "n": 8,
+      "graphs": 194,
+      "states": 206959,
+      "peak_graph_states": 2545,
+      "worst_time": 34,
+      "worst_frequency": 8,
+      "seconds": 0.0299159
+    }
+  },
+  {
+    "n": 9,
+    "classes": {
+      "all": {
+        "graphs": 531,
+        "worst_time": 45,
+        "worst_frequency": 14
+      },
+      "trees": {
+        "graphs": 18,
+        "worst_time": 43,
+        "worst_frequency": 10
+      },
+      "unicyclic": {
+        "graphs": 80,
+        "worst_time": 45,
+        "worst_frequency": 14
+      },
+      "minimum_degree_two": {
+        "graphs": 148,
+        "worst_time": 33,
+        "worst_frequency": 6
+      }
+    },
+    "execution": {
+      "n": 9,
+      "graphs": 531,
+      "states": 1350244,
+      "peak_graph_states": 6565,
+      "worst_time": 45,
+      "worst_frequency": 14,
+      "seconds": 0.133265
+    }
+  },
+  {
+    "n": 10,
+    "classes": {
+      "all": {
+        "graphs": 1733,
+        "worst_time": 57,
+        "worst_frequency": 16
+      },
+      "trees": {
+        "graphs": 37,
+        "worst_time": 57,
+        "worst_frequency": 16
+      },
+      "unicyclic": {
+        "graphs": 180,
+        "worst_time": 55,
+        "worst_frequency": 14
+      },
+      "minimum_degree_two": {
+        "graphs": 458,
+        "worst_time": 40,
+        "worst_frequency": 6
+      },
+      "cubic": {
+        "graphs": 19,
+        "worst_time": 26,
+        "worst_frequency": 4
+      }
+    },
+    "execution": {
+      "n": 10,
+      "graphs": 1733,
+      "states": 10992758,
+      "peak_graph_states": 23860,
+      "worst_time": 57,
+      "worst_frequency": 16,
+      "seconds": 1.03498
+    }
+  },
+  {
+    "n": 11,
+    "classes": {
+      "all": {
+        "graphs": 5524,
+        "worst_time": 74,
+        "worst_frequency": 22
+      },
+      "trees": {
+        "graphs": 66,
+        "worst_time": 63,
+        "worst_frequency": 18
+      },
+      "unicyclic": {
+        "graphs": 395,
+        "worst_time": 74,
+        "worst_frequency": 22
+      },
+      "minimum_degree_two": {
+        "graphs": 1353,
+        "worst_time": 49,
+        "worst_frequency": 7
+      }
+    },
+    "execution": {
+      "n": 11,
+      "graphs": 5524,
+      "states": 87542553,
+      "peak_graph_states": 65421,
+      "worst_time": 74,
+      "worst_frequency": 22,
+      "seconds": 8.08205
+    }
+  },
+  {
+    "n": 12,
+    "classes": {
+      "all": {
+        "graphs": 19430,
+        "worst_time": 90,
+        "worst_frequency": 22
+      },
+      "trees": {
+        "graphs": 135,
+        "worst_time": 83,
+        "worst_frequency": 22
+      },
+      "unicyclic": {
+        "graphs": 908,
+        "worst_time": 90,
+        "worst_frequency": 22
+      },
+      "minimum_degree_two": {
+        "graphs": 4566,
+        "worst_time": 58,
+        "worst_frequency": 8
+      },
+      "cubic": {
+        "graphs": 85,
+        "worst_time": 42,
+        "worst_frequency": 6
+      }
+    },
+    "execution": {
+      "n": 12,
+      "graphs": 19430,
+      "states": 802689122,
+      "peak_graph_states": 224085,
+      "worst_time": 90,
+      "worst_frequency": 22,
+      "seconds": 76.2211
+    }
+  }
+]

@@ -1,0 +1,134 @@
+{
+  "regular_examples": [
+    {
+      "name": "bipyramid_dual_3",
+      "n": 6,
+      "T": 5,
+      "identity": true,
+      "K": "47/5",
+      "bound": 28,
+      "all_pins_solved": true
+    },
+    {
+      "name": "bipyramid_dual_4",
+      "n": 8,
+      "T": 7,
+      "identity": true,
+      "K": "58/3",
+      "bound": 58,
+      "all_pins_solved": true
+    },
+    {
+      "name": "bipyramid_dual_5",
+      "n": 10,
+      "T": 9,
+      "identity": true,
+      "K": "655/19",
+      "bound": 103,
+      "all_pins_solved": true
+    },
+    {
+      "name": "bipyramid_dual_8",
+      "n": 16,
+      "T": 15,
+      "identity": true,
+      "K": "2540/21",
+      "bound": 362,
+      "all_pins_solved": true
+    },
+    {
+      "name": "bipyramid_dual_12",
+      "n": 24,
+      "T": 23,
+      "identity": true,
+      "K": "23994/65",
+      "bound": 1107,
+      "all_pins_solved": true
+    },
+    {
+      "name": "bipyramid_dual_32",
+      "n": 64,
+      "T": 63,
+      "identity": true
+    },
+    {
+      "name": "bipyramid_dual_64",
+      "n": 128,
+      "T": 127,
+      "identity": true
+    },
+    {
+      "name": "bipyramid_dual_128",
+      "n": 256,
+      "T": 255,
+      "identity": true
+    }
+  ],
+  "irregular_counterexample": [
+    {
+      "t": 0,
+      "position": 0,
+      "counts": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "E": 3,
+      "S": 1,
+      "B": 0
+    },
+    {
+      "t": 1,
+      "position": 1,
+      "counts": [
+        1,
+        1,
+        0,
+        0
+      ],
+      "E": 2,
+      "S": 2,
+      "B": 1
+    },
+    {
+      "t": 2,
+      "position": 0,
+      "counts": [
+        2,
+        1,
+        0,
+        0
+      ],
+      "E": 9,
+      "S": 3,
+      "B": 1
+    },
+    {
+      "t": 3,
+      "position": 2,
+      "counts": [
+        2,
+        1,
+        1,
+        0
+      ],
+      "E": 6,
+      "S": 4,
+      "B": 2
+    },
+    {
+      "t": 4,
+      "position": 0,
+      "counts": [
+        3,
+        1,
+        1,
+        0
+      ],
+      "E": 17,
+      "S": 5,
+      "B": 2
+    }
+  ]
+}

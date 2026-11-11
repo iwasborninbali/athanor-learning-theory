@@ -1,0 +1,31 @@
+{
+  "stumps2015.pdf": {
+    "url": "https://arxiv.org/pdf/1505.06999",
+    "sha256": "3a54657ed606f357f389f8329392113c8ab3b965eaffb23dd879ac5532e7dd83",
+    "origin": "Copied from scout saved source; read with supplied text extraction."
+  },
+  "stumps2023-full.html.gz": {
+    "url": "https://arxiv.org/html/1212.1108v3",
+    "sha256": "f42fdb1e86277b7a0397273e21eaa2a03efa587e098a0c64abf3a60171f158c4",
+    "uncompressed_sha256": "102e9e447ac34f9fa8c773edb1f7f49d283617c526d314b8d604c9f555363731",
+    "origin": "Copied and losslessly gzipped scout saved HTML."
+  },
+  "appendix_H.txt": {
+    "url": "https://arxiv.org/html/1212.1108v3",
+    "sha256": "a619cfee5f19fc1a4c56a7a64a798c9d759cd4b173e0841e1f30171a6bb8f896",
+    "origin": "Appendix H through document end, extracted from scout saved stumps_convergence_updated_html.txt. H.1-H.2 read initially; full H.3 read during proof audit."
+  },
+  "stumps_convergence_updated_html.txt_original": {
+    "sha256": "089e816b78b9b900837679646556d6d5f0e3ab9b7662613557ab8fa711e4201e",
+    "origin": "Original scout text extraction, read in place; not modified."
+  },
+  "scout_C3": {
+    "sha256": "eb0a4861eb8688a7a37166e0ad33db681ca9a7c9cdf66a7696906134232e7b2e",
+    "origin": "Read in place, section C3; not modified."
+  },
+  "stump_vc2020.pdf": {
+    "url": "https://proceedings.neurips.cc/paper/2020/file/d2a10b0bd670e442b1d3caa3fbf9e695-Paper.pdf",
+    "sha256": "2993110e2bd4ecd5bcb8b500fb5f67f5b6891a74786016378e4a881f51703f8b",
+    "origin": "Fresh unauthenticated public download; read section 5.1, Theorem 7 and Corollary 8."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "n": 3,
+  "rows": ["001", "010", "011", "100", "101", "110"],
+  "expected_rtd": 2,
+  "expected_vc": 2,
+  "max_triple_patterns": 6,
+  "description": "All six nonconstant three-bit words. Every row has exact TD 2; the sole triple has exactly six patterns."
+}

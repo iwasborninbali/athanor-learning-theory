@@ -1,0 +1,8 @@
+{
+  "n": 5,
+  "rows": ["00110", "01110", "10010", "11100", "00111", "01111", "10100", "11010"],
+  "expected_rtd": 2,
+  "expected_vc": 2,
+  "max_triple_patterns": 6,
+  "description": "Eight-row matrix in Dehghani--Gupta--Sankararaman's survey, p.4, which claims RTD 4. Exact checking gives RTD 2."
+}

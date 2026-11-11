@@ -1,0 +1,41 @@
+PASS 226 explicit witnesses
+PASS one-feature formulas and expectations, all labels for m=2..12
+{"closure": "closure_all_m4_p0.json.gz", "maximum": 4, "states": 12, "raw_generators": 12, "seconds": 0.001327, "status": "PASS"}
+{"closure": "closure_all_m4_p1.json.gz", "maximum": 4, "states": 18, "raw_generators": 12, "seconds": 0.000585, "status": "PASS"}
+{"closure": "closure_all_m4_p2.json.gz", "maximum": 4, "states": 13, "raw_generators": 12, "seconds": 0.000654, "status": "PASS"}
+{"closure": "closure_all_m5_p0.json.gz", "maximum": 5, "states": 27, "raw_generators": 60, "seconds": 0.001337, "status": "PASS"}
+{"closure": "closure_all_m5_p1.json.gz", "maximum": 10, "states": 282, "raw_generators": 60, "seconds": 0.005558, "status": "PASS"}
+{"closure": "closure_all_m5_p2.json.gz", "maximum": 9, "states": 236, "raw_generators": 60, "seconds": 0.005006, "status": "PASS"}
+{"closure": "closure_all_m6_p0.json.gz", "maximum": 6, "states": 58, "raw_generators": 360, "seconds": 0.012276, "status": "PASS"}
+{"closure": "closure_all_m6_p1.json.gz", "maximum": 15, "states": 17826, "raw_generators": 360, "seconds": 2.224794, "status": "PASS"}
+{"closure": "closure_all_m6_p2.json.gz", "maximum": 15, "states": 58134, "raw_generators": 360, "seconds": 7.806658, "status": "PASS"}
+{"closure": "closure_all_m6_p3.json.gz", "maximum": 15, "states": 43111, "raw_generators": 360, "seconds": 5.75081, "status": "PASS"}
+{"closure": "closure_constants_m4_p0.json.gz", "maximum": 1, "states": 2, "raw_generators": 1, "seconds": 0.00221, "status": "PASS"}
+{"closure": "closure_constants_m4_p1.json.gz", "maximum": 4, "states": 9, "raw_generators": 4, "seconds": 0.000431, "status": "PASS"}
+{"closure": "closure_constants_m4_p2.json.gz", "maximum": 4, "states": 13, "raw_generators": 7, "seconds": 0.000772, "status": "PASS"}
+{"closure": "closure_constants_m5_p0.json.gz", "maximum": 1, "states": 2, "raw_generators": 1, "seconds": 0.000428, "status": "PASS"}
+{"closure": "closure_constants_m5_p1.json.gz", "maximum": 7, "states": 58, "raw_generators": 8, "seconds": 0.000916, "status": "PASS"}
+{"closure": "closure_constants_m5_p2.json.gz", "maximum": 10, "states": 209, "raw_generators": 23, "seconds": 0.002474, "status": "PASS"}
+{"closure": "closure_constants_m6_p0.json.gz", "maximum": 1, "states": 2, "raw_generators": 1, "seconds": 0.001806, "status": "PASS"}
+{"closure": "closure_constants_m6_p1.json.gz", "maximum": 11, "states": 1706, "raw_generators": 16, "seconds": 0.016474, "status": "PASS"}
+{"closure": "closure_constants_m6_p2.json.gz", "maximum": 15, "states": 30976, "raw_generators": 73, "seconds": 0.873081, "status": "PASS"}
+{"closure": "closure_constants_m6_p3.json.gz", "maximum": 15, "states": 42889, "raw_generators": 115, "seconds": 1.995137, "status": "PASS"}
+{"closure": "closure_transition_m4_p0.json.gz", "maximum": 0, "states": 1, "raw_generators": 1, "seconds": 0.00154, "status": "PASS"}
+{"closure": "closure_transition_m4_p1.json.gz", "maximum": 3, "states": 9, "raw_generators": 4, "seconds": 0.00038, "status": "PASS"}
+{"closure": "closure_transition_m4_p2.json.gz", "maximum": 4, "states": 13, "raw_generators": 7, "seconds": 0.00074, "status": "PASS"}
+{"closure": "closure_transition_m5_p0.json.gz", "maximum": 0, "states": 1, "raw_generators": 1, "seconds": 0.000301, "status": "PASS"}
+{"closure": "closure_transition_m5_p1.json.gz", "maximum": 6, "states": 58, "raw_generators": 8, "seconds": 0.00074, "status": "PASS"}
+{"closure": "closure_transition_m5_p2.json.gz", "maximum": 9, "states": 209, "raw_generators": 23, "seconds": 0.002233, "status": "PASS"}
+{"closure": "closure_transition_m6_p0.json.gz", "maximum": 0, "states": 1, "raw_generators": 1, "seconds": 0.001068, "status": "PASS"}
+{"closure": "closure_transition_m6_p1.json.gz", "maximum": 10, "states": 1706, "raw_generators": 16, "seconds": 0.015105, "status": "PASS"}
+{"closure": "closure_transition_m6_p2.json.gz", "maximum": 14, "states": 30976, "raw_generators": 73, "seconds": 0.906535, "status": "PASS"}
+{"closure": "closure_transition_m6_p3.json.gz", "maximum": 15, "states": 42889, "raw_generators": 115, "seconds": 1.955251, "status": "PASS"}
+{"global_curve": "all", "m": 4, "counts_by_d_including_zero": [0, 3, 4, 4], "status": "PASS"}
+{"global_curve": "transition", "m": 4, "counts_by_d_including_zero": [0, 3, 4, 4], "status": "PASS"}
+{"global_curve": "constants", "m": 4, "counts_by_d_including_zero": [0, 3, 4, 4], "status": "PASS"}
+{"global_curve": "all", "m": 5, "counts_by_d_including_zero": [0, 4, 8, 10, 10], "status": "PASS"}
+{"global_curve": "transition", "m": 5, "counts_by_d_including_zero": [0, 4, 7, 9, 9], "status": "PASS"}
+{"global_curve": "constants", "m": 5, "counts_by_d_including_zero": [0, 5, 8, 10, 10], "status": "PASS"}
+{"global_curve": "all", "m": 6, "counts_by_d_including_zero": [0, 5, 9, 12, 13, 14, 15, 15, 15, 15, 15], "status": "PASS"}
+{"global_curve": "transition", "m": 6, "counts_by_d_including_zero": [0, 5, 9, 11, 12, 13, 13, 14, 14, 15, 15], "status": "PASS"}
+{"global_curve": "constants", "m": 6, "counts_by_d_including_zero": [0, 5, 9, 11, 13, 13, 13, 15, 15, 15, 15], "status": "PASS"}

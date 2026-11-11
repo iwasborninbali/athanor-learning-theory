@@ -1,0 +1,808 @@
+{
+  "closures": {
+    "rows": [
+      {
+        "m": 2,
+        "kind": "A",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          2
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 2,
+        "kind": "A",
+        "positives": 1,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 2,
+        "kind": "T",
+        "positives": 0,
+        "generators": 1,
+        "states": 1,
+        "edges": 1,
+        "curve": [
+          0
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 2,
+        "kind": "T",
+        "positives": 1,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 2,
+        "kind": "C",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 2,
+        "kind": "C",
+        "positives": 1,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "A",
+        "positives": 0,
+        "generators": 3,
+        "states": 5,
+        "edges": 15,
+        "curve": [
+          0,
+          2,
+          3
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "A",
+        "positives": 1,
+        "generators": 2,
+        "states": 3,
+        "edges": 6,
+        "curve": [
+          0,
+          2
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "T",
+        "positives": 0,
+        "generators": 1,
+        "states": 1,
+        "edges": 1,
+        "curve": [
+          0
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "T",
+        "positives": 1,
+        "generators": 2,
+        "states": 3,
+        "edges": 6,
+        "curve": [
+          0,
+          2
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "C",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 3,
+        "kind": "C",
+        "positives": 1,
+        "generators": 2,
+        "states": 3,
+        "edges": 6,
+        "curve": [
+          0,
+          3
+        ],
+        "cpu_seconds": 0.0
+      },
+      {
+        "m": 4,
+        "kind": "A",
+        "positives": 0,
+        "generators": 6,
+        "states": 12,
+        "edges": 72,
+        "curve": [
+          0,
+          2,
+          4
+        ],
+        "cpu_seconds": 0.0004
+      },
+      {
+        "m": 4,
+        "kind": "A",
+        "positives": 1,
+        "generators": 7,
+        "states": 18,
+        "edges": 126,
+        "curve": [
+          0,
+          3,
+          4,
+          4
+        ],
+        "cpu_seconds": 0.0003
+      },
+      {
+        "m": 4,
+        "kind": "A",
+        "positives": 2,
+        "generators": 7,
+        "states": 13,
+        "edges": 91,
+        "curve": [
+          0,
+          3,
+          4
+        ],
+        "cpu_seconds": 0.0002
+      },
+      {
+        "m": 4,
+        "kind": "T",
+        "positives": 0,
+        "generators": 1,
+        "states": 1,
+        "edges": 1,
+        "curve": [
+          0
+        ],
+        "cpu_seconds": 0.0001
+      },
+      {
+        "m": 4,
+        "kind": "T",
+        "positives": 1,
+        "generators": 4,
+        "states": 9,
+        "edges": 36,
+        "curve": [
+          0,
+          2,
+          2,
+          3
+        ],
+        "cpu_seconds": 0.0002
+      },
+      {
+        "m": 4,
+        "kind": "T",
+        "positives": 2,
+        "generators": 7,
+        "states": 13,
+        "edges": 91,
+        "curve": [
+          0,
+          3,
+          4
+        ],
+        "cpu_seconds": 0.0002
+      },
+      {
+        "m": 4,
+        "kind": "C",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0002
+      },
+      {
+        "m": 4,
+        "kind": "C",
+        "positives": 1,
+        "generators": 4,
+        "states": 9,
+        "edges": 36,
+        "curve": [
+          0,
+          3,
+          3,
+          4
+        ],
+        "cpu_seconds": 0.0004
+      },
+      {
+        "m": 4,
+        "kind": "C",
+        "positives": 2,
+        "generators": 7,
+        "states": 13,
+        "edges": 91,
+        "curve": [
+          0,
+          3,
+          4
+        ],
+        "cpu_seconds": 0.0003
+      },
+      {
+        "m": 5,
+        "kind": "A",
+        "positives": 0,
+        "generators": 10,
+        "states": 27,
+        "edges": 270,
+        "curve": [
+          0,
+          2,
+          4,
+          5
+        ],
+        "cpu_seconds": 0.0009
+      },
+      {
+        "m": 5,
+        "kind": "A",
+        "positives": 1,
+        "generators": 25,
+        "states": 282,
+        "edges": 7050,
+        "curve": [
+          0,
+          4,
+          8,
+          10,
+          10
+        ],
+        "cpu_seconds": 0.0042
+      },
+      {
+        "m": 5,
+        "kind": "A",
+        "positives": 2,
+        "generators": 26,
+        "states": 236,
+        "edges": 6136,
+        "curve": [
+          0,
+          4,
+          7,
+          9,
+          9
+        ],
+        "cpu_seconds": 0.0042
+      },
+      {
+        "m": 5,
+        "kind": "T",
+        "positives": 0,
+        "generators": 1,
+        "states": 1,
+        "edges": 1,
+        "curve": [
+          0
+        ],
+        "cpu_seconds": 0.0002
+      },
+      {
+        "m": 5,
+        "kind": "T",
+        "positives": 1,
+        "generators": 8,
+        "states": 58,
+        "edges": 464,
+        "curve": [
+          0,
+          2,
+          4,
+          6,
+          6
+        ],
+        "cpu_seconds": 0.0011
+      },
+      {
+        "m": 5,
+        "kind": "T",
+        "positives": 2,
+        "generators": 23,
+        "states": 209,
+        "edges": 4807,
+        "curve": [
+          0,
+          4,
+          7,
+          9,
+          9
+        ],
+        "cpu_seconds": 0.0035
+      },
+      {
+        "m": 5,
+        "kind": "C",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0008
+      },
+      {
+        "m": 5,
+        "kind": "C",
+        "positives": 1,
+        "generators": 8,
+        "states": 58,
+        "edges": 464,
+        "curve": [
+          0,
+          3,
+          5,
+          7,
+          7
+        ],
+        "cpu_seconds": 0.0015
+      },
+      {
+        "m": 5,
+        "kind": "C",
+        "positives": 2,
+        "generators": 23,
+        "states": 209,
+        "edges": 4807,
+        "curve": [
+          0,
+          5,
+          8,
+          10,
+          10
+        ],
+        "cpu_seconds": 0.0037
+      },
+      {
+        "m": 6,
+        "kind": "A",
+        "positives": 0,
+        "generators": 15,
+        "states": 58,
+        "edges": 870,
+        "curve": [
+          0,
+          2,
+          4,
+          6
+        ],
+        "cpu_seconds": 0.006
+      },
+      {
+        "m": 6,
+        "kind": "A",
+        "positives": 1,
+        "generators": 81,
+        "states": 17826,
+        "edges": 1443906,
+        "curve": [
+          0,
+          4,
+          8,
+          11,
+          13,
+          13,
+          13,
+          13,
+          13,
+          14,
+          15
+        ],
+        "cpu_seconds": 0.5703
+      },
+      {
+        "m": 6,
+        "kind": "A",
+        "positives": 2,
+        "generators": 114,
+        "states": 58134,
+        "edges": 6627276,
+        "curve": [
+          0,
+          5,
+          9,
+          12,
+          13,
+          14,
+          15,
+          15
+        ],
+        "cpu_seconds": 1.8782
+      },
+      {
+        "m": 6,
+        "kind": "A",
+        "positives": 3,
+        "generators": 121,
+        "states": 43111,
+        "edges": 5216431,
+        "curve": [
+          0,
+          5,
+          9,
+          11,
+          12,
+          13,
+          13,
+          13,
+          14,
+          15
+        ],
+        "cpu_seconds": 1.4662
+      },
+      {
+        "m": 6,
+        "kind": "T",
+        "positives": 0,
+        "generators": 1,
+        "states": 1,
+        "edges": 1,
+        "curve": [
+          0
+        ],
+        "cpu_seconds": 0.0018
+      },
+      {
+        "m": 6,
+        "kind": "T",
+        "positives": 1,
+        "generators": 16,
+        "states": 1706,
+        "edges": 27296,
+        "curve": [
+          0,
+          2,
+          4,
+          6,
+          8,
+          8,
+          8,
+          8,
+          8,
+          9,
+          10
+        ],
+        "cpu_seconds": 0.032
+      },
+      {
+        "m": 6,
+        "kind": "T",
+        "positives": 2,
+        "generators": 73,
+        "states": 30976,
+        "edges": 2261248,
+        "curve": [
+          0,
+          4,
+          8,
+          10,
+          12,
+          12,
+          12,
+          14
+        ],
+        "cpu_seconds": 0.8482
+      },
+      {
+        "m": 6,
+        "kind": "T",
+        "positives": 3,
+        "generators": 115,
+        "states": 42889,
+        "edges": 4932235,
+        "curve": [
+          0,
+          5,
+          9,
+          11,
+          12,
+          13,
+          13,
+          13,
+          14,
+          15
+        ],
+        "cpu_seconds": 1.4067
+      },
+      {
+        "m": 6,
+        "kind": "C",
+        "positives": 0,
+        "generators": 1,
+        "states": 2,
+        "edges": 2,
+        "curve": [
+          0,
+          1
+        ],
+        "cpu_seconds": 0.0054
+      },
+      {
+        "m": 6,
+        "kind": "C",
+        "positives": 1,
+        "generators": 16,
+        "states": 1706,
+        "edges": 27296,
+        "curve": [
+          0,
+          3,
+          5,
+          7,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          11
+        ],
+        "cpu_seconds": 0.0392
+      },
+      {
+        "m": 6,
+        "kind": "C",
+        "positives": 2,
+        "generators": 73,
+        "states": 30976,
+        "edges": 2261248,
+        "curve": [
+          0,
+          5,
+          9,
+          11,
+          13,
+          13,
+          13,
+          15
+        ],
+        "cpu_seconds": 0.8815
+      },
+      {
+        "m": 6,
+        "kind": "C",
+        "positives": 3,
+        "generators": 115,
+        "states": 42889,
+        "edges": 4932235,
+        "curve": [
+          0,
+          5,
+          9,
+          11,
+          12,
+          13,
+          13,
+          13,
+          14,
+          15
+        ],
+        "cpu_seconds": 1.5596
+      }
+    ],
+    "global_curves": {
+      "2A": [
+        0,
+        2
+      ],
+      "2T": [
+        0,
+        1
+      ],
+      "2C": [
+        0,
+        1
+      ],
+      "3A": [
+        0,
+        2,
+        3
+      ],
+      "3T": [
+        0,
+        2
+      ],
+      "3C": [
+        0,
+        3
+      ],
+      "4A": [
+        0,
+        3,
+        4,
+        4
+      ],
+      "4T": [
+        0,
+        3,
+        4,
+        4
+      ],
+      "4C": [
+        0,
+        3,
+        4,
+        4
+      ],
+      "5A": [
+        0,
+        4,
+        8,
+        10,
+        10
+      ],
+      "5T": [
+        0,
+        4,
+        7,
+        9,
+        9
+      ],
+      "5C": [
+        0,
+        5,
+        8,
+        10,
+        10
+      ],
+      "6A": [
+        0,
+        5,
+        9,
+        12,
+        13,
+        14,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "6T": [
+        0,
+        5,
+        9,
+        11,
+        12,
+        13,
+        13,
+        14,
+        14,
+        15,
+        15
+      ],
+      "6C": [
+        0,
+        5,
+        9,
+        11,
+        13,
+        13,
+        13,
+        15,
+        15,
+        15,
+        15
+      ]
+    },
+    "certificates_checked": 30,
+    "closure_edges": 27754591
+  },
+  "direct": [
+    {
+      "m": 5,
+      "d": 2,
+      "maxima": {
+        "A": 8,
+        "T": 7,
+        "C": 8
+      },
+      "configurations": 960,
+      "cpu_seconds": 0.0433
+    },
+    {
+      "m": 5,
+      "d": 3,
+      "maxima": {
+        "A": 10,
+        "T": 9,
+        "C": 10
+      },
+      "configurations": 29280,
+      "cpu_seconds": 0.7851
+    },
+    {
+      "m": 6,
+      "d": 2,
+      "maxima": {
+        "A": 9,
+        "T": 9,
+        "C": 9
+      },
+      "configurations": 11520,
+      "cpu_seconds": 0.9201
+    },
+    {
+      "m": 6,
+      "d": 3,
+      "maxima": {
+        "A": 12,
+        "T": 11,
+        "C": 11
+      },
+      "configurations": 2079360,
+      "cpu_seconds": 87.8736
+    }
+  ],
+  "formulas_and_witnesses": {
+    "exhaustive_formula_cases": 24564,
+    "random_formula_cases": 6000,
+    "supplied_witnesses_checked": 226
+  },
+  "cpu_seconds": 102.69421299999999
+}

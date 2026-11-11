@@ -1,0 +1,110 @@
+[
+  {
+    "n": 1,
+    "classes": 1,
+    "T": 0,
+    "M": 0,
+    "tree_T": 0,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 2,
+    "classes": 1,
+    "T": 1,
+    "M": 1,
+    "tree_T": 1,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 3,
+    "classes": 2,
+    "T": 3,
+    "M": 2,
+    "tree_T": 3,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 4,
+    "classes": 6,
+    "T": 7,
+    "M": 3,
+    "tree_T": 7,
+    "cubic_classes": 1,
+    "cubic_T": 3
+  },
+  {
+    "n": 5,
+    "classes": 10,
+    "T": 11,
+    "M": 5,
+    "tree_T": 11,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 6,
+    "classes": 29,
+    "T": 17,
+    "M": 7,
+    "tree_T": 17,
+    "cubic_classes": 2,
+    "cubic_T": 8
+  },
+  {
+    "n": 7,
+    "classes": 64,
+    "T": 27,
+    "M": 8,
+    "tree_T": 27,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 8,
+    "classes": 194,
+    "T": 34,
+    "M": 8,
+    "tree_T": 31,
+    "cubic_classes": 5,
+    "cubic_T": 15
+  },
+  {
+    "n": 9,
+    "classes": 531,
+    "T": 45,
+    "M": 14,
+    "tree_T": 43,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 10,
+    "classes": 1733,
+    "T": 57,
+    "M": 16,
+    "tree_T": 57,
+    "cubic_classes": 19,
+    "cubic_T": 26
+  },
+  {
+    "n": 11,
+    "classes": 5524,
+    "T": 74,
+    "M": 22,
+    "tree_T": 63,
+    "cubic_classes": 0,
+    "cubic_T": null
+  },
+  {
+    "n": 12,
+    "classes": 19430,
+    "T": 90,
+    "M": 22,
+    "tree_T": 83,
+    "cubic_classes": 85,
+    "cubic_T": 42
+  }
+]
